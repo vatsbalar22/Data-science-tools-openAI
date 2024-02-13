@@ -1,0 +1,10 @@
+black
+pytest
+openai
+click
+streamlit
+ipython
+pylint
+pytest
+fire
+git+https://github.com/openai/whisper.git 
